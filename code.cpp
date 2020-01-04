@@ -2,6 +2,11 @@
 #include <vector>
 using namespace std;
 
+/* 
+    Because of long long limit, this code test until (1 <= k <= 20!).
+    If you use a larger data format, you can do more than that.
+*/
+
 long long factorial(int n) {
     if (!n)
         return 1;

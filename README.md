@@ -1,4 +1,4 @@
-# Permutation-K-th-Fast
+# Permutation K-th
 
 When the number of people is n, How is the k-th sequence? <br>
 Example : <br>
